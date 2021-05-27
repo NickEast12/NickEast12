@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <img src="https://github.com/bchiang7/bchiang7/blob/main/ihavenoideawhatimdoing.jpg?raw=true" alt="Bailey the golden retriever has no idea what she's doing and neither do I" /> -->
+<img src="https://github.com/NickEast12/NickEast12/blob/main/cat-not-like-salad.png?raw=true" alt="Cat angry at salad" />
