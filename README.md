@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/NickEast12/NickEast12/blob/main/cat-not-like-salad.PNG" alt="Cat angry at salad" width:250px />
+<!-- <img src="https://github.com/NickEast12/NickEast12/blob/main/cat-not-like-salad.PNG" alt="Cat angry at salad" width:250px /> -->
