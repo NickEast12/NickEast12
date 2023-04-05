@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/NickEast12/NickEast12/blob/main/dog.jpeg" alt="Code review" width:250px />
+<!-- <img src="https://github.com/NickEast12/NickEast12/blob/main/dog.jpeg" alt="Code review" width:250px /> -->
